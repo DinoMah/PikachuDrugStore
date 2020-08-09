@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmaciaPikachu", "FarmaciaPikachu\FarmaciaPikachu.csproj", "{0D1D5C8B-BA52-46C5-8C22-F4C47CBE6341}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "x86", "x86", "{1926888C-B489-49DC-B0BE-E490CBF17553}"
+	ProjectSection(SolutionItems) = preProject
+		FarmaciaPikachu\bin\Debug\x86\SQLite.Interop.dll = FarmaciaPikachu\bin\Debug\x86\SQLite.Interop.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "x64", "x64", "{85121DCE-9E53-4010-AB13-727E06BF9A37}"
+	ProjectSection(SolutionItems) = preProject
+		FarmaciaPikachu\bin\Debug\x64\SQLite.Interop.dll = FarmaciaPikachu\bin\Debug\x64\SQLite.Interop.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D1D5C8B-BA52-46C5-8C22-F4C47CBE6341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1D5C8B-BA52-46C5-8C22-F4C47CBE6341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1D5C8B-BA52-46C5-8C22-F4C47CBE6341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1D5C8B-BA52-46C5-8C22-F4C47CBE6341}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {836EE4D1-1400-4951-BE64-0B608C24EA12}
+	EndGlobalSection
+EndGlobal
